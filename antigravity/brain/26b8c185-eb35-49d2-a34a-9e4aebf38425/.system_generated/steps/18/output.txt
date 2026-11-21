@@ -1,0 +1,45 @@
+Created At: 2026-11-21T11:05:18+05:30
+Completed At: 2026-11-21T11:05:24+05:30
+Command exited with code 1.
+
+Command output:
+
+Name                          
+----                          
+Adobe                         
+AMD                           
+antigravity-updater           
+Backup                        
+Bluestacks                    
+bluestacks-services-updater   
+canva-updater                 
+Comms                         
+ConnectedDevicesPlatform      
+copilot                       
+CrashDumps                    
+D3DSCache                     
+Discord                       
+GitHubDesktop                 
+Google                        
+HD-MultiInstanceManager       
+HD-Player                     
+HP                            
+HPE                           
+Microsoft                     
+Microsoft Help                
+nvim                          
+nvim-data                     
+OpenAI                        
+Opera Software                
+Packages                      
+PlaceholderTileLogoFolder     
+Programs                      
+Publishers                    
+SquirrelTemp                  
+Temp                          
+ToastNotificationManagerCompat
+VirtualStore                  
+dxdiag.log                    
+Resmon.ResmonCfg              
+
+

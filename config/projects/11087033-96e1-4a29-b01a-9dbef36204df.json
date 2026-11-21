@@ -1,0 +1,12 @@
+{
+  "id": "11087033-96e1-4a29-b01a-9dbef36204df",
+  "name": "swarm/swarm_board",
+  "projectResources": {},
+  "permissionGrants": {
+    "permissionGrants": {},
+    "v2Migrated": true
+  },
+  "sidecar": {
+    "sidecarId": "swarm/swarm_board"
+  }
+}

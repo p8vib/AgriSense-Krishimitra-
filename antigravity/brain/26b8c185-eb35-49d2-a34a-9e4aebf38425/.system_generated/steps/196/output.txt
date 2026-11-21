@@ -1,0 +1,11 @@
+Created At: 2026-11-21T11:36:17+05:30
+Completed At: 2026-11-21T11:36:24+05:30
+Command exited with code 1.
+
+Command output:
+
+> agrisense-krishimitra@1.0.0 build
+> vite build
+
+'vite' is not recognized as an internal or external command,
+operable program or batch file.

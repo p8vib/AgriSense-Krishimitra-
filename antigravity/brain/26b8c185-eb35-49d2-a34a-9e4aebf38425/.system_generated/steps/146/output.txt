@@ -1,0 +1,35 @@
+Created At: 2026-11-21T11:22:35+05:30
+Completed At: 2026-11-21T11:22:41+05:30
+Command exited with code 0.
+
+Command output:
+
+Name                    
+----                    
+@alloc                  
+@babel                  
+@esbuild                
+@jridgewell             
+@nodelib                
+@rolldown               
+@rollup                 
+@types                  
+@vitejs                 
+any-promise             
+anymatch                
+arg                     
+autoprefixer            
+baseline-browser-mapping
+binary-extensions       
+braces                  
+browserslist            
+camelcase-css           
+caniuse-lite            
+chokidar                
+clsx                    
+commander               
+convert-source-map      
+csstype                 
+d3-array                
+
+

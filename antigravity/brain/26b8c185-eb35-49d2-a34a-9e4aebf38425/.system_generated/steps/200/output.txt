@@ -1,0 +1,21 @@
+Created At: 2026-11-21T11:36:56+05:30
+Completed At: 2026-11-21T11:37:02+05:30
+Command exited with code 1.
+
+Command output:
+vite v5.4.21 building for production...
+transforming...
+✓ 1 modules transformed.
+x Build failed in 56ms
+error during build:
+[commonjs--resolver] EPERM: operation not permitted, realpath 'C:\Users\abasu\.gemini\antigravity\scratch\agrisense\src\main.jsx'
+    at node:fs:3525:18
+    at getRealPath (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:45901:16)
+    at Object.tryResolveRealFileOrType (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:45892:20)
+    at tryCleanFsResolve (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:46337:30)
+    at tryFsResolve (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:46323:15)
+    at Object.resolveId (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:46121:19)
+    at file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/rollup/dist/es/shared/node-entry.js:24475:40
+    at async PluginDriver.hookFirstAndGetPlugin (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/rollup/dist/es/shared/node-entry.js:24357:28)
+    at async resolveId (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/rollup/dist/es/shared/node-entry.js:22809:26)
+    at async ModuleLoader.resolveId (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/rollup/dist/es/shared/node-entry.js:23251:15)

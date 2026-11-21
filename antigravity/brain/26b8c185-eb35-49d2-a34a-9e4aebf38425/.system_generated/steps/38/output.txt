@@ -1,0 +1,24 @@
+Command exited with code 0.
+
+Command output:
+Name          Id                Version  Source
+------------------------------------------------
+Node.js       OpenJS.NodeJS     26.12.1  winget
+Node.js 10    OpenJS.NodeJS.10  10.24.1  winget
+Node.js 12    OpenJS.NodeJS.12  12.22.12 winget
+Node.js 14    OpenJS.NodeJS.14  14.21.3  winget
+Node.js 15    OpenJS.NodeJS.15  15.14.0  winget
+Node.js 16    OpenJS.NodeJS.16  16.20.2  winget
+Node.js 17    OpenJS.NodeJS.17  17.9.1   winget
+Node.js 18    OpenJS.NodeJS.18  18.20.8  winget
+Node.js 19    OpenJS.NodeJS.19  19.9.0   winget
+Node.js 20    OpenJS.NodeJS.20  20.20.2  winget
+Node.js 21    OpenJS.NodeJS.21  21.7.3   winget
+Node.js 22    OpenJS.NodeJS.22  22.23.5  winget
+Node.js 23    OpenJS.NodeJS.23  23.11.0  winget
+Node.js 4     OpenJS.NodeJS.4   4.8.7    winget
+Node.js 6     OpenJS.NodeJS.6   6.17.0   winget
+Node.js 7     OpenJS.NodeJS.7   7.1.0    winget
+Node.js 8     OpenJS.NodeJS.8   8.11.3   winget
+Node.js (LTS) OpenJS.NodeJS.LTS 26.13.1  winget
+Node.js 24    OpenJS.NodeJS.24  24.22.3  winget

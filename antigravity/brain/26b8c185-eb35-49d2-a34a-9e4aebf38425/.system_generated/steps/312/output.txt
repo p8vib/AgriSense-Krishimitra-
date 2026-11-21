@@ -1,0 +1,6 @@
+Created At: 2026-11-21T12:37:25+05:30
+Completed At: 2026-11-21T12:37:31+05:30
+Command exited with code 1.
+
+Command output:
+fatal: not a git repository (or any of the parent directories): .git

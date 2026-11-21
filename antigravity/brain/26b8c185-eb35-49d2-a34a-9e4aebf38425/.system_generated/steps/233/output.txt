@@ -1,0 +1,12 @@
+Created At: 2026-11-21T11:40:56+05:30
+Completed At: 2026-11-21T11:41:19+05:30
+Command exited with code 1.
+
+Command output:
+npm : File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system. For 
+more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:233
++ ... d "C:\Users\abasu\.gemini\antigravity\scratch\agrisense"; npm install
++                                                               ~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess

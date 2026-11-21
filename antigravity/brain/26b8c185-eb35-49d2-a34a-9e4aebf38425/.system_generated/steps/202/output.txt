@@ -1,0 +1,28 @@
+Created At: 2026-11-21T11:37:12+05:30
+Completed At: 2026-11-21T11:37:32+05:30
+Command exited with code 1.
+
+Command output:
+vite v5.4.21 building for production...
+transforming...
+✓ 3 modules transformed.
+x Build failed in 85ms
+error during build:
+[vite:css] Failed to load PostCSS config (searchPath: C:/Users/abasu/.gemini/antigravity/scratch/agrisense): [Error] Loading PostCSS Plugin failed: Cannot find module 'tailwindcss'
+Require stack:
+- C:\Users\abasu\.gemini\antigravity\scratch\agrisense\postcss.config.js
+
+(@C:\Users\abasu\.gemini\antigravity\scratch\agrisense\postcss.config.js)
+Error: Loading PostCSS Plugin failed: Cannot find module 'tailwindcss'
+Require stack:
+- C:\Users\abasu\.gemini\antigravity\scratch\agrisense\postcss.config.js
+
+(@C:\Users\abasu\.gemini\antigravity\scratch\agrisense\postcss.config.js)
+    at load (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33632:11)
+    at file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33657:16
+    at Array.map (<anonymous>)
+    at plugins (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33656:8)
+    at processResult (file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33726:14)
+    at file:///C:/Users/abasu/.gemini/antigravity/scratch/agrisense/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:33856:14
+file: C:/Users/abasu/.gemini/antigravity/scratch/agrisense/src/index.css
+

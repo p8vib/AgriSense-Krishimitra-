@@ -1,0 +1,32 @@
+Created At: 2026-11-21T11:38:24+05:30
+Completed At: 2026-11-21T11:38:30+05:30
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\abasu\.gemini\antigravity\scratch\agrisense\node_modules\tailwindcss
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        21-11-2026     11:22                lib                                                                  
+d-----        21-11-2026     11:22                nesting                                                              
+d-----        21-11-2026     11:22                peers                                                                
+d-----        21-11-2026     11:22                scripts                                                              
+d-----        21-11-2026     11:22                src                                                                  
+d-----        21-11-2026     11:22                stubs                                                                
+d-----        21-11-2026     11:21                types                                                                
+-a----        21-11-2026     11:22             16 base.css                                                             
+-a----        21-11-2026     11:22            120 colors.js                                                            
+-a----        21-11-2026     11:22             22 components.css                                                       
+-a----        21-11-2026     11:22            156 defaultConfig.js                                                     
+-a----        21-11-2026     11:22            151 defaultTheme.js                                                      
+-a----        21-11-2026     11:22           1071 LICENSE                                                              
+-a----        21-11-2026     11:22            141 loadConfig.js                                                        
+-a----        21-11-2026     11:22             19 screens.css                                                          
+-a----        21-11-2026     11:22             61 tailwind.css                                                         
+-a----        21-11-2026     11:22             21 utilities.css                                                        
+-a----        21-11-2026     11:22             20 variants.css                                                         
+
+

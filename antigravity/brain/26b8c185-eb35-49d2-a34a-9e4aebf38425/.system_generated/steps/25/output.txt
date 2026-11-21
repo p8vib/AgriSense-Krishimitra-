@@ -1,0 +1,15 @@
+Created At: 2026-11-21T11:05:54+05:30
+Completed At: 2026-11-21T11:05:59+05:30
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\abasu\.gemini\antigravity\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        21-11-2026     11:05            108 agentapi.bat                                                         
+
+

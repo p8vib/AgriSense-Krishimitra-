@@ -1,0 +1,60 @@
+Created At: 2026-11-21T12:37:49+05:30
+Completed At: 2026-11-21T12:37:55+05:30
+Command exited with code 0.
+
+Command output:
+Initialized empty Git repository in C:/Users/abasu/.gemini/antigravity/scratch/agrisense/.git/
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'postcss.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'server/index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/AiAssistantDrawer.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/CropDoctor.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/CropRecommender.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/FarmingPlanModal.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Footer.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Hero.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/MandiAndSchemes.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Navbar.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/SeasonalCalendar.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/context/LanguageContext.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data/cropsData.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data/diseasesData.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data/mandiAndSchemesData.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data/translations.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/data/weatherData.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tailwind.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.js', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) 08d6b42] feat: initial commit - AgriSense (KrishiMitra) Intelligent Farming Platform
+ 26 files changed, 8103 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 index.html
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 postcss.config.js
+ create mode 100644 server/index.js
+ create mode 100644 src/App.jsx
+ create mode 100644 src/components/AiAssistantDrawer.jsx
+ create mode 100644 src/components/CropDoctor.jsx
+ create mode 100644 src/components/CropRecommender.jsx
+ create mode 100644 src/components/FarmingPlanModal.jsx
+ create mode 100644 src/components/Footer.jsx
+ create mode 100644 src/components/Hero.jsx
+ create mode 100644 src/components/MandiAndSchemes.jsx
+ create mode 100644 src/components/Navbar.jsx
+ create mode 100644 src/components/SeasonalCalendar.jsx
+ create mode 100644 src/context/LanguageContext.jsx
+ create mode 100644 src/data/cropsData.js
+ create mode 100644 src/data/diseasesData.js
+ create mode 100644 src/data/mandiAndSchemesData.js
+ create mode 100644 src/data/translations.js
+ create mode 100644 src/data/weatherData.js
+ create mode 100644 src/index.css
+ create mode 100644 src/main.jsx
+ create mode 100644 tailwind.config.js
+ create mode 100644 vite.config.js

@@ -1,0 +1,11 @@
+Command exited with code 1.
+
+Command output:
+npm warn deprecated recharts@2.15.4: 1.x and 2.x branches are no longer active. Bump to Recharts v3 to receive latest features and bugfixes. See https://github.com/recharts/recharts/wiki/3.0-migration-guide
+npm error code 1
+npm error path C:\Users\abasu\.gemini\antigravity\scratch\agrisense\node_modules\esbuild
+npm error command failed
+npm error command C:\windows\system32\cmd.exe /d /s /c node install.js
+npm error 'node' is not recognized as an internal or external command,
+npm error operable program or batch file.
+npm error A complete log of this run can be found in: C:\Users\abasu\AppData\Local\npm-cache\_logs\2026-11-21T06_09_10_178Z-debug-0.log

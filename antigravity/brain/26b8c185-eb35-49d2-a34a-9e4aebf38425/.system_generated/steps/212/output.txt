@@ -1,0 +1,14 @@
+Created At: 2026-11-21T11:38:39+05:30
+Completed At: 2026-11-21T11:38:46+05:30
+Command exited with code 1.
+
+Command output:
+Get-Content : Cannot find path 
+'C:\Users\abasu\.gemini\antigravity\scratch\agrisense\node_modules\tailwindcss\package.json' because it does not exist.
+At line:1 char:208
++ ... } catch {}; Get-Content "C:\Users\abasu\.gemini\antigravity\scratch\a ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\abasu\...ss\package.json:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 

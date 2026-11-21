@@ -1,0 +1,19 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\abasu\AppData\Local\Programs
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        21-11-2026     10:49                antigravity                                                          
+d-----        28-09-2026     20:33                Canva                                                                
+d-----        02-04-2025     13:29                Common                                                               
+d-----        11-09-2026     21:15                Microsoft VS Code                                                    
+d-----        21-11-2026     09:30                Opera                                                                
+d-r---        15-09-2026     23:29                TypingMaster12                                                       
+C:/Users/abasu/.gemini/antigravity/bin;C:\Users\abasu\AppData\Roaming\Antigravity\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Neovim\bin;C:\MinGW\bin;C:\Users\abasu\AppData\Local\Microsoft\WindowsApps;C:\Users\abasu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\abasu\AppData\Local\Microsoft\WinGet\Packages\sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe\fd-v10.5.0-x86_64-pc-windows-msvc;
+
+

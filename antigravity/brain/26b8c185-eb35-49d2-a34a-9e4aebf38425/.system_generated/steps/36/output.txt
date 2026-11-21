@@ -1,0 +1,12 @@
+Created At: 2026-11-21T11:06:47+05:30
+Completed At: 2026-11-21T11:08:16+05:30
+Command exited with code 1.
+
+Command output:
+
+Name       Source                                                       
+----       ------                                                       
+winget.exe C:\Users\abasu\AppData\Local\Microsoft\WindowsApps\winget.exe
+python.exe C:\Users\abasu\AppData\Local\Microsoft\WindowsApps\python.exe
+
+

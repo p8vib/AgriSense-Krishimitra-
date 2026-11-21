@@ -1,0 +1,5 @@
+{
+  "summary": "Full walkthrough and browser-verified QA report for AgriSense (KrishiMitra). Updated with Run 2 live browser results: all 6 QA tasks passed — language switcher verified across EN/HI/AS/ES, Crop Recommender ranked results with RadarChart confirmed, Farming Plan Modal verified, Weather AreaChart confirmed, Seasonal Calendar tabs verified, 0 console errors and 0 HTTP failures.",
+  "updatedAt": "2026-11-21T06:45:23.774171700Z",
+  "userFacing": true
+}

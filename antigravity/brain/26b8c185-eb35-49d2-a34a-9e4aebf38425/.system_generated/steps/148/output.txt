@@ -1,0 +1,23 @@
+Created At: 2026-11-21T11:22:49+05:30
+Completed At: 2026-11-21T11:22:54+05:30
+Command exited with code 0.
+
+Command output:
+
+Name                  
+----                  
+@vitejs               
+lucide-react          
+react                 
+react-dom             
+react-is              
+react-refresh         
+react-smooth          
+react-transition-group
+recharts              
+recharts-scale        
+tailwind-merge        
+tailwindcss           
+vite                  
+
+

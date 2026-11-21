@@ -1,0 +1,12 @@
+Created At: 2026-11-21T12:37:14+05:30
+Completed At: 2026-11-21T12:37:20+05:30
+Command exited with code 1.
+
+Command output:
+At line:1 char:266
++ ...  cd "C:\Users\abasu\.gemini\antigravity\scratch\agrisense" && git sta ...
++                                                                ~~
+The token '&&' is not a valid statement separator in this version.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidEndOfLine
+ 

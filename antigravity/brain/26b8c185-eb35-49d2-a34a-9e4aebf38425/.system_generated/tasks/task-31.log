@@ -1,0 +1,17 @@
+py : The term 'py' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:208
++ ... ); [Console]::OutputEncoding = $OutputEncoding } catch {}; py --versi ...
++                                                                ~~
+    + CategoryInfo          : ObjectNotFound: (py:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Program 'python.exe' failed to run: The file cannot be accessed by the systemAt line:1 char:222
++ ... Encoding = $OutputEncoding } catch {}; py --version; python --version
++                                                          ~~~~~~~~~~~~~~~~.
+At line:1 char:222
++ ... Encoding = $OutputEncoding } catch {}; py --version; python --version
++                                                          ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (:) [], ApplicationFailedException
+    + FullyQualifiedErrorId : NativeCommandFailed
+ 

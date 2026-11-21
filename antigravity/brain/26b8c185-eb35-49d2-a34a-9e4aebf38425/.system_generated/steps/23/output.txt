@@ -1,0 +1,14 @@
+Created At: 2026-11-21T11:05:42+05:30
+Completed At: 2026-11-21T11:05:47+05:30
+Command exited with code 1.
+
+Command output:
+Program 'winget.exe' failed to run: The file cannot be accessed by the systemAt line:1 char:208
++ ... nsole]::OutputEncoding = $OutputEncoding } catch {}; winget --version
++                                                          ~~~~~~~~~~~~~~~~.
+At line:1 char:208
++ ... nsole]::OutputEncoding = $OutputEncoding } catch {}; winget --version
++                                                          ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (:) [], ApplicationFailedException
+    + FullyQualifiedErrorId : NativeCommandFailed
+ 

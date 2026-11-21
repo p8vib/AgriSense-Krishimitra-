@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+Found Node.js (LTS) [OpenJS.NodeJS.LTS] Version 26.13.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://nodejs.org/dist/v26.13.1/node-v26.13.1-x64.msi
+Successfully verified installer hash
+Starting package install...
+The installer will request to run as administrator. Expect a prompt.
+Successfully installed
